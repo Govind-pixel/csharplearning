@@ -1,0 +1,11 @@
+C:\csharp\ConsoleApp1\project2\bin\Debug\project2.exe.config
+C:\csharp\ConsoleApp1\project2\bin\Debug\project2.exe
+C:\csharp\ConsoleApp1\project2\bin\Debug\project2.pdb
+C:\csharp\ConsoleApp1\project2\bin\Debug\ConsoleApp1.exe
+C:\csharp\ConsoleApp1\project2\bin\Debug\ConsoleApp1.pdb
+C:\csharp\ConsoleApp1\project2\bin\Debug\ConsoleApp1.exe.config
+C:\csharp\ConsoleApp1\project2\obj\Debug\project2.csprojAssemblyReference.cache
+C:\csharp\ConsoleApp1\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
+C:\csharp\ConsoleApp1\project2\obj\Debug\project2.csproj.CopyComplete
+C:\csharp\ConsoleApp1\project2\obj\Debug\project2.exe
+C:\csharp\ConsoleApp1\project2\obj\Debug\project2.pdb
